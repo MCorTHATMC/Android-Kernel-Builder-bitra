@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "bitra",
-      "repo": "https://github.com/Blackmanx/kernel_realme_sm8250",
+      "repo": "https://github.com/MCorTHATMC/kernel_realme_sm8250",
       "branch": "bigshot-AOSP",
       "device": "bitra",
       "defconfig": "vendor/sm8250_defconfig"
